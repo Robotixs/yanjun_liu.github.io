@@ -12,25 +12,25 @@ My name is Yanjun LIU (刘彦君 in Chinese) and you can also call me Yin-Kwan L
 
 Education
 ======
-**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)**   2021-Present
+**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** &emsp & emsp 2021-Present
 
 M.Eng. in Artificial Intelligence
 
-**Faculty of Robot Science and Engineering, Northeastern University (Shenyang, China)**   2017 - 2021
+**Faculty of Robot Science and Engineering, Northeastern University (Shenyang, China)** &emsp &emsp 2017 - 2021
 
 B.Eng. in Robotics
 
 Awards & Honors
 ======
-* National Scholarship    2018, 2019
+* National Scholarship &emsp &emsp 2018, 2019
 
-* First-class Scholarship at NEU    2019
+* First-class Scholarship at NEU &emsp &emsp 2019
 
-* Top 10 Honor Undergraduate Student    2020
+* Top 10 Honor Undergraduate Student &emsp &emsp 2020
 
-* BSEF Outstanding Student Scholarship    2020
+* BSEF Outstanding Student Scholarship &emsp &emsp 2020
 
-* Honor Graduate at NEU   2021
+* Honor Graduate at NEU &emsp &emsp 2021
 
 Publications
 ======
