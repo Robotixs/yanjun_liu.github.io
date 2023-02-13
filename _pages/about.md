@@ -24,6 +24,16 @@ B.Eng. in Robotics
 
 ***
 
+Skills
+======
+* Language: Mandarin (Native), English (Proficient), IELTS 7.5
+
+* Programming: C/C++, Python, MATLAB
+
+* Platforms: Linux, ROS, PyTorch, Simulink, CoppeliaSim
+
+***
+
 Awards & Honors
 ======
 * National Scholarship &emsp; *2018, 2019*
