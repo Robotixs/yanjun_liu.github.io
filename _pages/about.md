@@ -14,7 +14,7 @@ My name is Yanjun LIU (刘彦君 in Chinese) and you can also call me Yin-Kwan L
 
 Education
 ======
-**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** &emsp; &emsp; *2021-Present*
+**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** &emsp; &emsp; *2021 - Present*
 
 M.Eng. in Artificial Intelligence
 
@@ -43,7 +43,7 @@ Publications
 
 **Journal Papers**
 
-1. **Y. Liu**, Y. Shen, Q. Liao and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection". (Submitted to IEEE Trans. on Multimedia, under review)
+1. **Y. Liu**, Y. Shen, Q. Liao and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection". (Under review)
 
 **Conference Papers**
 
