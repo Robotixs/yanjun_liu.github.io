@@ -62,7 +62,7 @@ Indoor 3D object detection is an essential task in single image scene understand
 
 <p align="center">
   <img width="30%" src="../assets/myo.jpg">
-  <img width="30%" src="../assets/semg.jpg">
+  <img width="32%" src="../assets/semg.jpg">
 </p>
 
 This research proposes a 1D-CNN for fusing gyroscope and electromyography (EMG) signals for hand sign word recognition, achieving an accuracy of 96% on a laboratory-built dataset of 200 words with approximately 10,000 samples collected from 20 participants. Furthermore, a twin-neural network-based online hand sign recognition framework is proposed, which compares the sliding window signal with the standard vector learned by the twin-neural network, achieving a recognition rate of 102 milliseconds per sentence with an 82% accuracy on a large-scale long-sentence dataset built in the laboratory. The results have won the Silver Prize of the 5th “Internet” Innovation and Entrepreneurship Competition, the Gold Prize of the 6th “Internet” Innovation and Entrepreneurship Competition, and two conference papers and one SCI paper have been published in collaboration with members of the laboratory.
