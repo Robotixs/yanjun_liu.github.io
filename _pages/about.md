@@ -14,7 +14,7 @@ My name is Yanjun LIU (刘彦君 in Chinese) and you can also call me Yin-Kwan L
 
 Education
 ======
-**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** &emsp; &emsp; *2021 - Present*
+**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** &emsp; &emsp; &emsp; *2021 - Present*
 
 M.Eng. in Artificial Intelligence
 
@@ -26,15 +26,15 @@ B.Eng. in Robotics
 
 Awards & Honors
 ======
-* National Scholarship &emsp; 2018, 2019
+* National Scholarship &emsp; *2018, 2019*
 
-* First-class Scholarship at NEU &emsp; 2019
+* First-class Scholarship at NEU &emsp; *2019*
 
-* Top 10 Honor Undergraduate Student &emsp; 2020
+* Top 10 Honor Undergraduate Student &emsp; *2020*
 
-* BSEF Outstanding Student Scholarship &emsp; 2020
+* BSEF Outstanding Student Scholarship &emsp; *2020*
 
-* Honor Graduate at NEU &emsp; 2021
+* Honor Graduate at NEU &emsp; *2021*
 
 ***
 
@@ -47,8 +47,9 @@ Publications
 
 **Conference Papers**
 
-1. F. Wang*, S. Sun and **Y. Liu**, "A Bi-directional Interactive System of Sign Language and Visual Speech Based on Portable Devices," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019, pp. 1071-1076.
+1. F. Wang*, S. Sun and **Y. Liu**, "A Bi-directional Interactive System of Sign Language and Visual Speech Based on Portable Devices," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019, pp. 1071-1076.[[Paper](https://ieeexplore.ieee.org/abstract/document/8961831/)]
+2. F. Wang*, Z. Zeng, S. Sun and **Y. Liu**, "Diversity amplification and data generation of Chinese Sign Language based on Generative Adversarial Network," 2020 10th IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER), 2020, pp. 139-145.[[Paper](https://ieeexplore.ieee.org/abstract/document/9279125/)]
 
 Projects
 ======
-[Project Page]
+[Project Page](https://yanjunliu-ac.github.io/projects)
