@@ -23,7 +23,7 @@ The [RoboMaster University Sim2Real Challenge at ICRA 2022]
 * Advisor: Prof. Lijin Fang
 
 <p align="center">
-  <img width="60%" src="https://github.com/YanjunLIU-ac/Dynamic_Parameter_Identification_for_Rokae_xMate/blob/main/flowchart.png">
+  <img width="60%" src="../assets/flowchart.png">
 </p>
 
 In this paper, we first model the dynamics of the celluloid XMate3Pro robot and identify the parameters. In this paper, the robot dynamics is modeled by the Newton-Euler method and the friction is modeled using the Coulomb viscous hysteresis model. The excitation trajectory of the fifth-order Fourier series is used to obtain the robot motion data, and then the least-squares method is used to identify the minimum parameter set. The root-mean-square error between the identified and actual moments of each joint is calculated to be within 0.5 Nm, and the identification accuracy is high. The torque during robot motion can be solved by parameter identification, and the dragging method based on torque control can be further realized on this basis.
@@ -42,13 +42,13 @@ For the robot arm trajectory following control, this paper designs a sliding mod
 * Advisor: Prof. Wenming Yang
 
 <p align="center">
-  <img width="60%" src="../assets/graph_overview.png">
+  <img width="80%" src="../assets/graph_overview.png">
 </p>
 
 Indoor 3D object detection is an essential task in single image scene understanding, impacting spatial cognition fundamentally in visual reasoning. Existing works on 3D object detection from a single image either pursue this goal through independent predictions of each object or implicitly reason over all possible objects, failing to harness relational geometric information between objects. To address this problem, we propose a dynamic sparse graph pipeline named Explicit3D based on object geometry and semantics features. Taking the efficiency into consideration, we further define a relatedness score and design a novel dynamic pruning algorithm followed by a cluster sampling method for sparse scene graph generation and updating. Furthermore, our Explicit3D introduces homogeneous matrices and defines new relative loss and corner loss to model the spatial difference between target pairs explicitly. Instead of using ground-truth labels as direct supervision, our relative and corner loss are derived from the homogeneous transformation, which renders the model to learn the geometric consistency between objects. The experimental results on the SUN RGB-D dataset demonstrate that our Explicit3D achieves better performance balance than the-state-of-the-art.
 
 <p align="center">
-  <img width="100%" src="../assets/preface_intro.png">
+  <img width="80%" src="../assets/preface_intro.png">
 </p>
 
 [[Bachelor Thesis](https://www.jianguoyun.com/p/DcQ3d_IQkOm1CRjFi_cEIAA)]
@@ -60,11 +60,12 @@ Indoor 3D object detection is an essential task in single image scene understand
 * Publication: one paper in IEEE ROBIO, one paper in IEEE CYBER, one paper in Applied Intelligence
 * Advisor: Prof. Fei Wang
 
-* This research proposes a 1D-CNN for fusing gyroscope and electromyography (EMG) signals for hand sign word recognition, achieving an accuracy of 96% on a laboratory-built dataset of 200 words with approximately 10,000 samples collected from 20 participants. 
+<p align="center">
+  <img width="50%" src="../assets/myo.png">
+  <img width="50%" src="../assets/semg.png">
+</p>
 
-* Furthermore, a twin-neural network-based online hand sign recognition framework is proposed, which compares the sliding window signal with the standard vector learned by the twin-neural network, achieving a recognition rate of 102 milliseconds per sentence with an 82% accuracy on a large-scale long-sentence dataset built in the laboratory. 
-
-*	The results have won the Silver Prize of the 5th “Internet” Innovation and Entrepreneurship Competition, the Gold Prize of the 6th “Internet” Innovation and Entrepreneurship Competition, and two conference papers and one SCI paper have been published in collaboration with members of the laboratory.
+This research proposes a 1D-CNN for fusing gyroscope and electromyography (EMG) signals for hand sign word recognition, achieving an accuracy of 96% on a laboratory-built dataset of 200 words with approximately 10,000 samples collected from 20 participants. Furthermore, a twin-neural network-based online hand sign recognition framework is proposed, which compares the sliding window signal with the standard vector learned by the twin-neural network, achieving a recognition rate of 102 milliseconds per sentence with an 82% accuracy on a large-scale long-sentence dataset built in the laboratory. The results have won the Silver Prize of the 5th “Internet” Innovation and Entrepreneurship Competition, the Gold Prize of the 6th “Internet” Innovation and Entrepreneurship Competition, and two conference papers and one SCI paper have been published in collaboration with members of the laboratory.
 
 
 [[IEEE ROBIO Paper](https://ieeexplore.ieee.org/abstract/document/8961831/)]
