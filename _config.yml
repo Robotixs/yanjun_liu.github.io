@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanjun LIU's Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yanjun LIU"
 description              : &description "Master Student from Tsinghua University"
-url                      : https://robotixs.github.io/yanjun_liu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yanjunliu-ac.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Robotixs/yanjun_liu.github.io"
+repository               : "YanjunLIU-ac/yanjunliu-ac.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Robotixs/"
+  github           : "YanjunLIU-ac/"
   google_plus      :
   keybase          :
   instagram        :
