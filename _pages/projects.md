@@ -23,7 +23,7 @@ The [RoboMaster University Sim2Real Challenge at ICRA 2022]
 * Advisor: Prof. Lijin Fang
 
 <p align="center">
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=0tn974odp6Q" title="acfun video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0tn974odp6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 This project aims to investigate the method for demonstrating and teaching robotic compliant skills. Its primary contents include dynamic parameter identification, compliant dragging, and trajectory tracking. Our experiment platform is based on the Rokae xMate3Pro manipulator.
@@ -32,12 +32,12 @@ For the identification portion, we modeled the robot's dynamics using 13 paramet
 
 For the compliant dragging portion, we devised a variable admittance scheme based on the operator's direct and indirect intentions. The scheme can adjust the virtual damping to modulate the dragging speed based on the operator's intent, while predicting the operator's desired force direction by calculating the path's curvature to guide the operator. The experiments show that the variable damping method can improve dragging precision and reduce dragging time. Variable admittance scheme is capable of making the manipulator respond rapidly to the operator's intent and correcting dragging errors and jitter compared to constant damping scheme. Some of the system details are shown below.
 
-For the trajectory tracking portion, we used the Time Delay Estimation (TDE) method in combination with Sliding Mode Controller (SMC) to improve the tracking accuracy. Experiments were conducted to track the target dragging trajectory using the proposed controller, and the tracking error of each joint was reduced to within 1e-3 radians.
-
 <p align="center">
   <img width="45%" src="../assets/vadmit_pic1.png">
   <img width="45%" src="../assets/vadmit_pic2.png">
 </p>
+
+For the trajectory tracking portion, we used the Time Delay Estimation (TDE) method in combination with Sliding Mode Controller (SMC) to improve the tracking accuracy. Experiments were conducted to track the target dragging trajectory using the proposed controller, and the tracking error of each joint was reduced to within 1e-3 radians.
 
 [[Project Thesis (Complete)](https://www.jianguoyun.com/p/DQAfQGgQkOm1CRjAi_cEIAA)]
 [[Thesis on Dynamic Identification](https://www.jianguoyun.com/p/DUbc1G0QkOm1CRjKi_cEIAA)]
