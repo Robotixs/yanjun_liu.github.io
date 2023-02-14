@@ -16,7 +16,7 @@ Education
 ======
 **Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** &emsp; &emsp; &emsp; *2021 - Present*
 
-M.Eng. in Artificial Intelligence
+M.Eng. student in Artificial Intelligence
 
 **Faculty of Robot Science and Engineering, Northeastern University (Shenyang, China)** &emsp; &emsp; *2017 - 2021*
 
