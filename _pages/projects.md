@@ -33,8 +33,8 @@ For the compliant dragging portion, we devised a variable admittance scheme base
 For the trajectory tracking portion, we used the Time Delay Estimation (TDE) method in combination with Sliding Mode Controller (SMC) to improve the tracking accuracy. Experiments were conducted to track the target dragging trajectory using the proposed controller, and the tracking error of each joint was reduced to within 1e-3 radians.
 
 <p align="center">
-  <img width="60%" src="../assets/vadmit_pic1.png">
-  <img width="60%" src="../assets/vadmit_pic2.png">
+  <img width="50%" src="../assets/vadmit_pic1.png">
+  <img width="50%" src="../assets/vadmit_pic2.png">
 </p>
 
 [[Project Thesis (Complete)](https://www.jianguoyun.com/p/DQAfQGgQkOm1CRjAi_cEIAA)]
