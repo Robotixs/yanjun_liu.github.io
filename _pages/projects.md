@@ -28,13 +28,13 @@ This project aims to investigate the method for demonstrating and teaching robot
 
 For the identification portion, we modeled the robot's dynamics using 13 parameters per joint, including Coulomb friction. A Fourier-series based excitation trajectory and Least Squares Method were used for parameter identification. The experimental results indicated that the root Mean Square Error between the calculated and actual torque of each joint was within 0.5Nm.
 
-For the compliant dragging portion, we devised a variable admittance scheme based on the operator's direct and indirect intentions. The scheme can adjust the virtual damping to modulate the dragging speed based on the operator's intent, while predicting the operator's desired force direction by calculating the path's curvature to guide the operator. The experiments show that the variable damping method can improve dragging precision and reduce dragging time. Variable admittance scheme is capable of making the manipulator respond rapidly to the operator's intent and correcting dragging errors and jitter compared to constant damping scheme.
+For the compliant dragging portion, we devised a variable admittance scheme based on the operator's direct and indirect intentions. The scheme can adjust the virtual damping to modulate the dragging speed based on the operator's intent, while predicting the operator's desired force direction by calculating the path's curvature to guide the operator. The experiments show that the variable damping method can improve dragging precision and reduce dragging time. Variable admittance scheme is capable of making the manipulator respond rapidly to the operator's intent and correcting dragging errors and jitter compared to constant damping scheme. Some of the system details are shown below.
 
 For the trajectory tracking portion, we used the Time Delay Estimation (TDE) method in combination with Sliding Mode Controller (SMC) to improve the tracking accuracy. Experiments were conducted to track the target dragging trajectory using the proposed controller, and the tracking error of each joint was reduced to within 1e-3 radians.
 
 <p align="center">
-  <img width="40%" src="../assets/vadmit_pic1.png">
-  <img width="40%" src="../assets/vadmit_pic2.png">
+  <img width="60%" src="../assets/vadmit_pic1.png">
+  <img width="60%" src="../assets/vadmit_pic2.png">
 </p>
 
 [[Project Thesis (Complete)](https://www.jianguoyun.com/p/DQAfQGgQkOm1CRjAi_cEIAA)]
