@@ -65,9 +65,11 @@ Indoor 3D object detection is an essential task in single image scene understand
   <img width="32%" src="../assets/semg.jpg">
 </p>
 
-This research proposes a 1D-CNN for fusing gyroscope and electromyography (EMG) signals for hand sign word recognition, achieving an accuracy of 96% on a laboratory-built dataset of 200 words with approximately 10,000 samples collected from 20 participants. Furthermore, a twin-neural network-based online hand sign recognition framework is proposed, which compares the sliding window signal with the standard vector learned by the twin-neural network, achieving a recognition rate of 102 milliseconds per sentence with an 82% accuracy on a large-scale long-sentence dataset built in the laboratory. The results have won the Silver Prize of the 5th “Internet” Innovation and Entrepreneurship Competition, the Gold Prize of the 6th “Internet” Innovation and Entrepreneurship Competition, and two conference papers and one SCI paper have been published in collaboration with members of the laboratory.
+This research is targeted to build a Sign Language Recognition (SLR) system to help the hearing-impaired people and inspire further researches in interactive human-robot collaboration. We used Myo armbrand (shown on the left) embedded with sEMG（surface-electromyogram）sensors and IMU (Inertial Measurement Unit) to capture sign language signals (shown on the right). The core concept of this project is to design the multi-modal information fusion method to classify sign language words.
 
+We proposed a 1D-CNN as baseline for signal fusion, achieving an accuracy of 96% on a laboratory-built dataset of 200 words with approximately 10,000 samples collected from 20 participants. Some relevant works on integration system of sign language and visual speech (ROBIO Paper), data generation and amplification (CYBER Paper) and few-shot learning (Applied Intelligence Paper) have also been published. Our project has won the Silver Prize of the 5th "Internet Plus" Innovation and Entreprneurship Competition.
 
 [[IEEE ROBIO Paper](https://ieeexplore.ieee.org/abstract/document/8961831/)]
 [[IEEE CYBER Paper](https://ieeexplore.ieee.org/abstract/document/9279125/)]
 [[Applied Intelligence Paper](https://link.springer.com/article/10.1007/s10489-020-02170-9)]
+[[Competition News](http://www.rse.neu.edu.cn/2019/1016/c2146a145673/page.htm)]
