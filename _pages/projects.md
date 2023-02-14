@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## RAMIS-based Optimal Control and Motion Planning for RCM-constrainted Redundant Manipulator
+## Optimal Control of RCM-constrainted Redundant Manipulator in RAMIS
 * 08/2022 - Present
 * In collaboration with Ruiqi Rao from Sun Yat-Sen University 
 * Advisor: Prof. Weibing Li
