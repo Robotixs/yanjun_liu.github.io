@@ -18,7 +18,7 @@ Robot-Assisted Minimally Invasive Surgery (RAMIS) uses long and slender surgical
 
 <p align="center">
   <img width="30%" src="../assets/rcm.png">
-  <img width="30%" src="../assets/hands-on.gif">
+  <img width="50%" src="../assets/hands-on.gif">
 </p>
 
 As depicted in the left figure, mechanically RCM-constrainted robot manipulators have a fixed pivot point within the workspace. In this project, the kinematically redundant Emika Frank Panda manipulator is used to study a variety of relevant control and planning tasks.
