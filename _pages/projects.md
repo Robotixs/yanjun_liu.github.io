@@ -23,7 +23,7 @@ The [RoboMaster University Sim2Real Challenge at ICRA 2022]
 * Advisor: Prof. Lijin Fang
 
 <p align="center">
-  <img width="60%" src="../assets/flowchart.png">
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=0tn974odp6Q" title="youtube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
 
 This project aims to investigate the method for demonstrating and teaching robotic compliant skills. Its primary contents include dynamic parameter identification, compliant dragging, and trajectory tracking. Our experiment platform is based on the Rokae xMate3Pro manipulator.
