@@ -64,7 +64,7 @@ The detection of indoor 3D objects is a crucial component of single-image scene 
 [[arxiv](https://arxiv.org/abs/2302.06494)]
 
 ## sEMG-based Sign Language Recognition for the Hearing-impaired
-* 03/2020 - 05/2020
+* 03/2019 - 05/2020
 * Human-Robot Collaboration Lab, Faculty of Robot Science and Engineering, Northeastern University
 * Publication: one paper in IEEE ROBIO, one paper in IEEE CYBER, one paper in Applied Intelligence
 * Advisor: Prof. Fei Wang
