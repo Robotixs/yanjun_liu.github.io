@@ -37,22 +37,22 @@ For the robot arm trajectory following control, this paper designs a sliding mod
 
 ## Indoor 3D Scene Understanding and Modelling
 * 08/2020 - 08/2021
-* Publication: one paper submitted to IEEE Trans. on Multimedia
+* Publication: one paper submitted to IEEE Trans. on Multimedia, under review
 * Visual Information Processing Lab, SIGS, Tsinghua University
 * Advisor: Prof. Wenming Yang
-
-<p align="center">
-  <img width="80%" src="../assets/graph_overview.png">
-</p>
-
-Indoor 3D object detection is an essential task in single image scene understanding, impacting spatial cognition fundamentally in visual reasoning. Existing works on 3D object detection from a single image either pursue this goal through independent predictions of each object or implicitly reason over all possible objects, failing to harness relational geometric information between objects. To address this problem, we propose a dynamic sparse graph pipeline named Explicit3D based on object geometry and semantics features. Taking the efficiency into consideration, we further define a relatedness score and design a novel dynamic pruning algorithm followed by a cluster sampling method for sparse scene graph generation and updating. Furthermore, our Explicit3D introduces homogeneous matrices and defines new relative loss and corner loss to model the spatial difference between target pairs explicitly. Instead of using ground-truth labels as direct supervision, our relative and corner loss are derived from the homogeneous transformation, which renders the model to learn the geometric consistency between objects. The experimental results on the SUN RGB-D dataset demonstrate that our Explicit3D achieves better performance balance than the-state-of-the-art.
 
 <p align="center">
   <img width="80%" src="../assets/preface_intro.png">
 </p>
 
+Indoor 3D object detection is an essential task in single image scene understanding, impacting spatial cognition fundamentally in visual reasoning. Existing works on 3D object detection from a single image either pursue this goal through independent predictions of each object or implicitly reason over all possible objects, failing to harness relational geometric information between objects. To address this problem, we propose a dynamic sparse graph pipeline named Explicit3D based on object geometry and semantics features. Taking the efficiency into consideration, we further define a relatedness score and design a novel dynamic pruning algorithm followed by a cluster sampling method for sparse scene graph generation and updating. Furthermore, our Explicit3D introduces homogeneous matrices and defines new relative loss and corner loss to model the spatial difference between target pairs explicitly. Instead of using ground-truth labels as direct supervision, our relative and corner loss are derived from the homogeneous transformation, which renders the model to learn the geometric consistency between objects. The experimental results on the SUN RGB-D dataset demonstrate that our Explicit3D achieves better performance balance than the-state-of-the-art. An overview of our method is illustrated below: the entire detection pipeline consists of graph pruning, edge message update and the prediction of 3D pose.
+
+<p align="center">
+  <img width="80%" src="../assets/graph_overview.png">
+</p>
+
 [[Bachelor Thesis](https://www.jianguoyun.com/p/DcQ3d_IQkOm1CRjFi_cEIAA)]
-[[arxiv](https://www.jianguoyun.com/p/DUXGruoQkOm1CRiwk_cEIAA)]
+[[arxiv](https://arxiv.org/abs/2302.06494)]
 
 ## sEMG-based Sign Language Recognition for the Hearing-impaired
 * 03/2020 - 05/2020
