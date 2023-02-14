@@ -53,7 +53,7 @@ Publications
 
 **Journal Papers**
 
-1. **Y. Liu**, Y. Shen, Q. Liao and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection". (Under review)[[arxiv](https://www.jianguoyun.com/p/DUXGruoQkOm1CRiwk_cEIAA)]
+1. **Y. Liu**, Y. Shen, Q. Liao and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection". (Under review)[[arxiv](https://arxiv.org/abs/2302.06494)]
 
 **Conference Papers**
 
