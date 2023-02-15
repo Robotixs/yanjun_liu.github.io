@@ -14,13 +14,13 @@ My name is Yanjun LIU (刘彦君 in Chinese) and you can also call me Yin-Kwan L
 
 Education
 ======
-**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** &emsp; &emsp; &emsp; *2021 - Present*
+**Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** 
 
-M.Eng. student in Artificial Intelligence
+*2021 - Present* &emsp; M.Eng. student in Artificial Intelligence
 
-**Faculty of Robot Science and Engineering, Northeastern University (Shenyang, China)** &emsp; &emsp; *2017 - 2021*
+**Faculty of Robot Science and Engineering, Northeastern University (Shenyang, China)** 
 
-B.Eng. in Robotics
+*2017 - 2021* &emsp; B.Eng. in Robotics
 
 ***
 
