@@ -24,7 +24,7 @@ As depicted in the left figure, mechanically RCM-constrainted robot manipulators
 The central idea of RCM-constrainted optimal control is to formulate the end-effector task as a Quadratic Programming (QP) Problem. The redundant manipulator nullspace enables the optimization of multiple tasks simultaneously. Currently, our primary research topics include reactive manipulability-maximising motion control, admittance control for hands-on RAMIS (demonstrated in the right figure), motion control of rigid-flexible integrated instrument etc. in RAMIS scenario.
 
 <p align="center">
-  <img width="60%" src="../assets/qp_demo.gif">
+  <img width="50%" src="../assets/qp_demo.gif">
   <img width="30%" src="../assets/laparoscope_demo.gif">
 </p>
 
