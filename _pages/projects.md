@@ -25,7 +25,7 @@ The central idea of RCM-constrainted optimal control is to formulate the end-eff
 
 <p align="center">
   <img width="50%" src="../assets/qp_demo.gif">
-  <img width="30%" src="../assets/laparoscope_demo.gif">
+  <img width="40%" src="../assets/laparoscope_demo.gif">
 </p>
 
 ## Teaching-by-Demonstration Scheme for Robotic Compliant Skills
