@@ -19,15 +19,14 @@ Robot-Assisted Minimally Invasive Surgery (RAMIS) uses long and slender surgical
   <img width="60%" src="../assets/hands-on.gif">
 </p>
 
-<p align="center">
-  <img width="60%" src="../assets/qp_demo.gif">
-  <img width="30%" src="../assets/laparoscope_gif.mp4">
-</p>
-
 As depicted in the left figure, mechanically RCM-constrainted robot manipulators have a fixed pivot point within the workspace. In this project, the kinematically redundant Emika Frank Panda manipulator is used to study a variety of relevant control and planning tasks.
 
 The central idea of RCM-constrainted optimal control is to formulate the end-effector task as a Quadratic Programming (QP) Problem. The redundant manipulator nullspace enables the optimization of multiple tasks simultaneously. Currently, our primary research topics include reactive manipulability-maximising motion control, admittance control for hands-on RAMIS (demonstrated in the right figure), motion control of rigid-flexible integrated instrument etc. in RAMIS scenario.
 
+<p align="center">
+  <img width="60%" src="../assets/qp_demo.gif">
+  <img width="30%" src="../assets/laparoscope_demo.gif">
+</p>
 
 ## Teaching-by-Demonstration Scheme for Robotic Compliant Skills
 * 03/2022 - 06/2022
