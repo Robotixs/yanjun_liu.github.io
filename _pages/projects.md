@@ -58,20 +58,30 @@ References:
 * Faculty of Robot Science and Engineering, Northeastern University
 * Advisor: Prof. Lijin Fang
 
+This project aims to investigate the method for demonstrating and teaching robotic compliant skills. Its primary contents include dynamic parameter identification, compliant dragging, and trajectory tracking. Our experiment platform is based on the Rokae xMate3Pro manipulator.
+
 <p align="center">
 <iframe width="336" height="189" src="https://www.youtube.com/embed/0tn974odp6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-This project aims to investigate the method for demonstrating and teaching robotic compliant skills. Its primary contents include dynamic parameter identification, compliant dragging, and trajectory tracking. Our experiment platform is based on the Rokae xMate3Pro manipulator.
-
 For the identification portion, we modeled the robot's dynamics using 13 parameters per joint, including Coulomb friction. A Fourier-series based excitation trajectory and Least Squares Method were used for parameter identification. The experimental results indicated that the root Mean Square Error between the calculated and actual torque of each joint was within 0.5Nm.
+
+<p align="center">
+  <img width="60%" src="../assets/flowchart.png">
+</p>
+<center>Figure 1. Dynamic parameter identification flowchart. </center>
 
 For the compliant dragging portion, we devised a variable admittance scheme based on the operator's direct and indirect intentions. The scheme can adjust the virtual damping to modulate the dragging speed based on the operator's intent, while predicting the operator's desired force direction by calculating the path's curvature to guide the operator. The experiments show that the variable damping method can improve dragging precision and reduce dragging time. Variable admittance scheme is capable of making the manipulator respond rapidly to the operator's intent and correcting dragging errors and jitter compared to constant damping scheme. Some of the system details are shown below.
 
 <p align="center">
-  <img width="45%" src="../assets/vadmit_pic1.png">
-  <img width="45%" src="../assets/vadmit_pic2.png">
+  <img width="60%" src="../assets/vadmit_pic1.png">
 </p>
+<center>Figure 2. Variable admittance control strategy. </center>
+
+<p align="center">
+  <img width="60%" src="../assets/vadmit_pic2.png">
+</p>
+<center>Figure 3. Variable admittance control experiments & results. </center>
 
 For the trajectory tracking portion, we used the Time Delay Estimation (TDE) method in combination with Sliding Mode Controller (SMC) to improve the tracking accuracy. Experiments were conducted to track the target dragging trajectory using the proposed controller, and the tracking error of each joint was reduced to within 1e-3 radians.
 
