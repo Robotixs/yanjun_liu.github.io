@@ -18,14 +18,8 @@ Robot-Assisted Minimally Invasive Surgery (RA-MIS) uses long and slender surgica
   <img width="60%" src="../assets/rcm.png">
 </p>
 
-<center>
-Figure 1. Representation of a typical RA-MIS system.
-</center>
+<center>Figure 1. Representation of a typical RA-MIS system.</center>
 
-<p align="center">
-  <img width="30%" src="../assets/rcm.png">
-  <img width="60%" src="../assets/hands-on.gif">
-</p>
 
 As depicted in the left figure, mechanically RCM-constrainted robot manipulators have a fixed pivot point within the workspace. In this project, the kinematically redundant Emika Frank Panda manipulator is used to study a variety of relevant control and planning tasks.
 
