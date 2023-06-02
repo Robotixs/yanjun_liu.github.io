@@ -9,35 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-## Optimal Control of RCM-constrained Redundant Manipulator in RAMIS
+## Optimal Control of RCM-constrained Redundant Manipulator in RA-MIS
 * 08/2022 - Present
 
-Robot-Assisted Minimally Invasive Surgery (RA-MIS) uses long and slender surgical tools (e.g., endoscope) rigidly mounted on the robot's end-effector, which are controlled by the surgeon via a hands-on or tele-operation setup. During a RA-MIS, the surgical tool performs tasks inside the patient’s body. Simultaneously, the tool movements are constrained by the trocar where the position deviation must be minimized, in order to avoid any injury to the patient. The kinematic constraint discussed above is commonly known as the Remote Center of Motion (RCM) constraint. A detailed illustration of RA-MIS components is shown in Figure 1.
+Robot-Assisted Minimally Invasive Surgery (RA-MIS) uses long and slender surgical tools (e.g., endoscope) rigidly mounted on the robot's end-effector, which are controlled by the surgeon via a hands-on or tele-operation setup. During a RA-MIS, the surgical tool performs tasks inside the patient’s body. Simultaneously, the tool movements are constrained by the trocar where the position deviation must be minimized, in order to avoid any injury to the patient. The kinematic constraint discussed above is commonly known as the Remote Center of Motion (RCM) constraint. The detailed illustration of RA-MIS components is shown in Figure 1.
 
 <p align="center">
-  <img width="45%" src="../assets/rcm.png">
+  <img width="35%" src="../assets/rcm.png">
 </p>
 <center>Figure 1. Representation of a typical RA-MIS system [1].</center>
 
 In this project, the primary research topics include a variety of relevant control and planning tasks:
-+ admittance control for hands-on RAMIS
++ admittance control
 + hybrid force-impedance control
 + reactive manipulability-maximizing motion control
 + motion control of rigid-flexible integrated and soft instruments
-+ …
++ etc.
+
 The kinematically redundant Emika Frank Panda manipulator is used to study. Currently, our work targets the following two applications:
 
+(a) QP-based admittance control in hands-on RA-MIS
 
-The central idea of RCM-constrainted optimal control is to formulate the end-effector task as a Quadratic Programming (QP) Problem. The redundant manipulator nullspace enables the optimization of multiple tasks simultaneously. Currently, our primary research topics include reactive manipulability-maximising motion control, admittance control for hands-on RAMIS (demonstrated in the right figure), motion control of rigid-flexible integrated instrument etc. in RAMIS scenario.
+By decomposing the cartesian space into a free motion space and a constraint space under RCM-constraint, we formulated hands-on admittance control as a Quadratic Programming (QP) Problem. The redundant manipulator’s nullspace enables the optimization of multiple tasks simultaneously. We also proposed to model trocar position along the tool axis as a virtual prismatic joint to restrict the instrument’s radial motion. A running demo is shown in Figure 2.
 
 <p align="center">
-  <img width="50%" src="../assets/qp_demo.gif">
-  <img width="42%" src="../assets/laparoscope_demo.gif">
+  <img width="70%" src="../assets/qp_demo.gif">
 </p>
 
-References:
-[1] Sandoval, J., Pierre Vieyres, and Gérard Poisson. "Generalized framework for control of redundant manipulators in robot-assisted minimally invasive surgery." IRBM 39.3 (2018): 160-166.
+<center>Figure 2. Demo of admittance control in hands-on RA-MIS. </center>
 
+(b) Prototype of compliant robot-assisted laparoscope-holder system
+
+The proposed laparoscope-holder system aims to keep the instrument’s tip (represented as the green ball in Figure 3) within the camera horizon. By exploiting the nullspace of redundant manipulators, it features compliant tasks such as reducing the interaction forces at the trocar position, avoiding sudden gestures and restricting elbow motion. To be specific, our system consists of the task-space compliance control (RCM constraint), the nullspace compliance control (elbow motion) and MoCap system with instrument locating algorithm (not shown here). A running demo is shown in Figure 3. 
+
+Our future works in the section will focus on integrating visual servoing, swivel angle motion controller etc.
+
+<p align="center">
+  <img width="60%" src="../assets/laparoscope_demo.gif">
+</p>
+<center>Figure 3. Demo of robot-assisted laparoscope-holding system. </center>
+
+References:
+
+[1] Sandoval, J., Pierre Vieyres, and Gérard Poisson. "Generalized framework for control of redundant manipulators in robot-assisted minimally invasive surgery." IRBM 39.3 (2018): 160-166.
 
 ## Teaching-by-Demonstration Scheme for Robotic Compliant Skills
 * 03/2022 - 06/2022
