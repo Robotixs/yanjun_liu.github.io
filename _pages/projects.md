@@ -15,9 +15,8 @@ redirect_from:
 Robot-Assisted Minimally Invasive Surgery (RA-MIS) uses long and slender surgical tools (e.g., endoscope) rigidly mounted on the robot's end-effector, which are controlled by the surgeon via a hands-on or tele-operation setup. During a RA-MIS, the surgical tool performs tasks inside the patient’s body. Simultaneously, the tool movements are constrained by the trocar where the position deviation must be minimized, in order to avoid any injury to the patient. The kinematic constraint discussed above is commonly known as the Remote Center of Motion (RCM) constraint. A detailed illustration of RA-MIS components is shown in Figure 1.
 
 <p align="center">
-  <img width="60%" src="../assets/rcm.png">
+  <img width="45%" src="../assets/rcm.png">
 </p>
-
 <center>Figure 1. Representation of a typical RA-MIS system.</center>
 
 
