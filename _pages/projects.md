@@ -17,10 +17,16 @@ Robot-Assisted Minimally Invasive Surgery (RA-MIS) uses long and slender surgica
 <p align="center">
   <img width="45%" src="../assets/rcm.png">
 </p>
-<center>Figure 1. Representation of a typical RA-MIS system.</center>
+<center>Figure 1. Representation of a typical RA-MIS system [1].</center>
 
+In this project, the primary research topics include a variety of relevant control and planning tasks:
++ admittance control for hands-on RAMIS
++ hybrid force-impedance control
++ reactive manipulability-maximizing motion control
++ motion control of rigid-flexible integrated and soft instruments
++ …
+The kinematically redundant Emika Frank Panda manipulator is used to study. Currently, our work targets the following two applications:
 
-As depicted in the left figure, mechanically RCM-constrainted robot manipulators have a fixed pivot point within the workspace. In this project, the kinematically redundant Emika Frank Panda manipulator is used to study a variety of relevant control and planning tasks.
 
 The central idea of RCM-constrainted optimal control is to formulate the end-effector task as a Quadratic Programming (QP) Problem. The redundant manipulator nullspace enables the optimization of multiple tasks simultaneously. Currently, our primary research topics include reactive manipulability-maximising motion control, admittance control for hands-on RAMIS (demonstrated in the right figure), motion control of rigid-flexible integrated instrument etc. in RAMIS scenario.
 
@@ -28,6 +34,10 @@ The central idea of RCM-constrainted optimal control is to formulate the end-eff
   <img width="50%" src="../assets/qp_demo.gif">
   <img width="42%" src="../assets/laparoscope_demo.gif">
 </p>
+
+References:
+[1] Sandoval, J., Pierre Vieyres, and Gérard Poisson. "Generalized framework for control of redundant manipulators in robot-assisted minimally invasive surgery." IRBM 39.3 (2018): 160-166.
+
 
 ## Teaching-by-Demonstration Scheme for Robotic Compliant Skills
 * 03/2022 - 06/2022
