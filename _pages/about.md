@@ -26,7 +26,7 @@ Education
 
 Skills
 ======
-* Language: Mandarin (Native), English (Proficient), IELTS 7.5
+* Language: Mandarin (Native), English (Proficient), IELTS 8.0
 
 * Programming: C/C++, Python, MATLAB
 
@@ -53,7 +53,8 @@ Publications
 
 **Journal Papers**
 
-1. **Y. Liu**, Y. Shen, Q. Liao and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection". (Under review)[[arxiv](https://arxiv.org/abs/2302.06494)]
+1. **Y. Liu**, and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection". (Under review)[[arxiv](https://arxiv.org/abs/2302.06494)]
+2. **Y. Liu**, W. Yang* and Q. Liao, "DiffVein: A Unified Diffusion Network for Finger Vein Segmentation and Authentication". (Under review)[[arxiv](https://arxiv.org/abs/2402.02060)]
 
 **Conference Papers**
 
