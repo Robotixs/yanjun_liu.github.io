@@ -53,7 +53,7 @@ Publications
 
 **Journal Papers**
 
-1. **Y. Liu**, and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection". (Under review)[[arxiv](https://arxiv.org/abs/2302.06494)]
+1. **Y. Liu**, and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection," *Signal Processing: Image Communication*, vol. 124, pp. 117120, 2024. [[URL](https://www.sciencedirect.com/science/article/pii/S0923596524000213)]
 2. **Y. Liu**, W. Yang* and Q. Liao, "DiffVein: A Unified Diffusion Network for Finger Vein Segmentation and Authentication". (Under review)[[arxiv](https://arxiv.org/abs/2402.02060)]
 
 **Conference Papers**
