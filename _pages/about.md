@@ -58,8 +58,8 @@ Publications
 
 **Conference Papers**
 
-1. F. Wang*, S. Sun and **Y. Liu**, "A Bi-directional Interactive System of Sign Language and Visual Speech Based on Portable Devices," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2019, pp. 1071-1076.[[Paper](https://ieeexplore.ieee.org/abstract/document/8961831/)]
-2. F. Wang*, Z. Zeng, S. Sun and **Y. Liu**, "Diversity amplification and data generation of Chinese Sign Language based on Generative Adversarial Network," 2020 10th IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER), 2020, pp. 139-145.[[Paper](https://ieeexplore.ieee.org/abstract/document/9279125/)]
+1. F. Wang*, S. Sun and **Y. Liu**, "A Bi-directional Interactive System of Sign Language and Visual Speech Based on Portable Devices," in *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, 2019, pp. 1071-1076.[[URL](https://ieeexplore.ieee.org/abstract/document/8961831/)]
+2. F. Wang*, Z. Zeng, S. Sun and **Y. Liu**, "Diversity amplification and data generation of Chinese Sign Language based on Generative Adversarial Network," in *IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER)*, 2020, pp. 139-145.[[URL](https://ieeexplore.ieee.org/abstract/document/9279125/)]
 
 Projects
 ======
