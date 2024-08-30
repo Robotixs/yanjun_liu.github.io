@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yanjun LIU (刘彦君 in Chinese) and you can also call me Yin-Kwan LAU. I am currently pursing the M.Eng. degree with Tsinghua SIGS under the supervision of Prof. Wenming Yang. My research interests include robotic control, robotic manipluation and scene perception. You can contact me via email [lyj19990319@126.com](mailto:lyj19990319@126.com) or [liuyanju21@mails.tsinghua.edu.cn](mailto:liuyanju21@mails.tsinghua.edu.cn).
+I am Yanjun Liu (刘彦君), a roboticist at CUHK. Previously, I obtained my master's degree in artificial intelligence at Tsinghua SIGS under the supervision of Prof. Wenming Yang and my bachelor's degree in robotics at Northeastern University. My research interests include robotic control and human-robot interaction in surgical settings. You can contact me via email [lyj19990319@126.com](mailto:lyj19990319@126.com) or [yanjunliu@cuhk.edu.hk](mailto:yanjunliu@cuhk.edu.hk).
 
 ***
 
@@ -16,17 +16,17 @@ Education
 ======
 **Shenzhen International Graduate School, Tsinghua University (Shenzhen, China)** 
 
-*2021 - Present* &emsp; M.Eng. student in Artificial Intelligence
+*September 2021 - July 2024* &emsp; Master of Electronic Information in Artificial Intelligence
 
 **Faculty of Robot Science and Engineering, Northeastern University (Shenyang, China)** 
 
-*2017 - 2021* &emsp; B.Eng. in Robotics
+*August 2017 - July 2021* &emsp; Bachelor of Engineering in Robotics
 
 ***
 
 Skills
 ======
-* Language: Mandarin (Native), English (Proficient), IELTS 8.0
+* Language: Mandarin (Native), English (Proficient, IELTS 8.0)
 
 * Programming: C/C++, Python, MATLAB
 
@@ -38,7 +38,7 @@ Awards & Honors
 ======
 * National Scholarship &emsp; *2018, 2019*
 
-* First-class Scholarship at NEU &emsp; *2019*
+* First-class Scholarship at NEU &emsp; *2019, 2021*
 
 * Top 10 Honor Undergraduate Student &emsp; *2020*
 
@@ -53,8 +53,8 @@ Publications
 
 **Journal Papers**
 
-1. **Y. Liu**, and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection," *Signal Processing: Image Communication*, vol. 124, pp. 117120, 2024. [[URL](https://www.sciencedirect.com/science/article/pii/S0923596524000213)]
-2. **Y. Liu**, W. Yang* and Q. Liao, "DiffVein: A Unified Diffusion Network for Finger Vein Segmentation and Authentication". (Under review)[[arxiv](https://arxiv.org/abs/2402.02060)]
+1. **Y. Liu**, and W. Yang*, "Explicit3D: Graph Network with Spatial Inference for Single Image 3D Object Detection," Signal Processing: Image Communication, vol. 124, pp. 117120, 2024. [[URL](https://www.sciencedirect.com/science/article/pii/S0923596524000213)]
+2. **Y. Liu**, W. Yang* and Q. Liao, "DiffVein: A Unified Diffusion Network for Finger Vein Segmentation and Authentication," IEEE Transactions on Circuits and Systems for Video Technology, vol. 2024, pp. 1.[[URL](https://ieeexplore.ieee.org/document/10632170)]
 
 **Conference Papers**
 
