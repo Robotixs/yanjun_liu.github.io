@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Yanjun LIU"
-description              : &description "Master Student from Tsinghua University"
+name                     : &name "Yanjun Liu"
+description              : &description "The Chinese University of Hong Kong"
 url                      : https://yanjunliu-ac.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YanjunLIU-ac/yanjunliu-ac.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yanjun Liu"
   avatar           : "selfie.png"
-  bio              : "Master Student from Tsinghua University"
-  location         : "Shenzhen, China"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=6BZz8XoAAAAJ"
-  email            : "liuyanju21@mails.tsinghua.edu.cn"
+  email            : "yanjunliu@cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
